@@ -1,0 +1,16 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data files (as requested)
+*.csv
+*.xlsx
+
+# IDE specific
+.vscode/
+
+# Environment specific
+.psenvrc
